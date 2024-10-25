@@ -115,9 +115,9 @@ footer p {
 }
 
 .cajaRegistro button {
-    font-size: 9pt;
+    font-size: 10pt;
     font-weight: bold;
-    padding: 10px 20px;
+    padding: 12px 22px;
     border-radius: 20px;
     background-color: #B259FF;
     color: white;
@@ -129,6 +129,15 @@ footer p {
 .cajaRegistro button:hover {
     background-color: #9a4cd3;
 }
+
+.cajaRegistro .inicioSesion {
+    background-color: #fff;
+	color:#1AD5E8;
+	text-decoration: underline;
+	font-size: 9pt;
+	
+}
+
 
 /* Contenido principal */
 .contenido {
